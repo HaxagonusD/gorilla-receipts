@@ -1,0 +1,16 @@
+.receipt {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid orange;
+  text-align: left;
+  padding: 3rem;
+}
+
+.receipt h1 {
+  font-size: 3rem;
+}
+
+.magenta {
+  display: inline-block;
+  color: magenta;
+}
